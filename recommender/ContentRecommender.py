@@ -7,7 +7,7 @@ import warnings
 
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-global_path = 'E:/Projects/Flutter Projects/travel_recommender/lib/python_backend/recommender/'
+global_path = 'recommender/'
 
 class ContentBaseRecommender:
 
