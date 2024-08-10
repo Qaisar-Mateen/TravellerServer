@@ -1,0 +1,223 @@
+ID,Country,keywords,avg cost per day,climate
+0,Andorra,europe history mountain,116,cold
+1,United Arab Emirates,skyscrapper desert beach asia,116,hot
+2,Afghanistan,mountain desert asia food culture,112,mix
+3,Antigua and Barbuda,island northamerica beach,142,hot
+4,Anguilla,island beach southamerica,139,hot
+5,Albania,europe mountain history beach,109,mix
+6,Armenia,mountain asia history,114,hot
+7,Angola,africa plain culture wildlife,112,hot
+8,Argentina,mountain beach southamerica food,114,mix
+9,American Samoa,island beach culture,135,hot
+10,Austria,mountain europe food,116,cold
+11,Australia,desert plain beach australia,112,hot
+12,Aruba,island history europe,103,hot
+13,Aland Islands,island europe beach,97,hot
+14,Azerbaijan,mountain asia plain,116,cold
+15,Bosnia and Herzegovina,mountain beach europe history,106,hot
+16,Barbados,northamerica island beach,142,hot
+17,Bangladesh,asia plain beach culture,112,hot
+18,Burkina Faso,africa plain history culture,106,hot
+19,Bulgaria,mountain europe history,110,cold
+20,Bahrain,island beach asia,115,hot
+21,Burundi,africa food culture plain wildlife,117,hot
+22,Benin,beach plain africa culture food,117,hot
+23,Saint Barthelemy,island northamerica beach culture,86,hot
+24,Bermuda,island northamerica beach,112,hot
+25,Brunei,asia island beach food culture,101,hot
+26,Bolivia,southamerica beach history plain,114,hot
+27,Bonaire,island beach southamerica food,95,hot
+28,Brazil,southamerica mountain beach food culture,112,hot
+29,Bahamas,island northamerica beach culture,120,hot
+30,Bhutan,asia mountain culture food history,126,cold
+31,Botswana,africa culture plain food,114,hot
+32,Belarus,europe plain food,110,mix
+33,Belize,northamerica beach food,112,hot
+34,Canada,northamerica skyscrapper mountain plain,112,cold
+35,Cocos Islands,asia beach island,110,hot
+36,Democratic Republic of the Congo,africa plain wildlife,109,hot
+37,Central African Republic,africa plain food wildlife,112,hot
+38,Republic of the Congo,wildlife africa plain,110,hot
+39,Switzerland,mountain europe food,111,cold
+40,Ivory Coast,africa wildlife plain,111,hot
+41,Cook Islands,island beach asia,119,hot
+42,Chile,southamerica forest wildlife,114,mix
+43,Cameroon,africa beach plain culture,116,hot
+44,China,asia skyscrapper wildlife mountain desert history,112,mix
+45,Colombia,southamerica mountain beach forest,113,hot
+46,Costa Rica,southamerica mountain forest culture history,110,hot
+47,Cuba,southamerica mountain beach history island,113,hot
+48,Cabo Verde,africa island beach,123,hot
+49,Curacao,southamerica island beach,83,hot
+50,Christmas Island,island asia beach food,117,mix
+51,Cyprus,history island asia beach,108,mix
+52,Czechia,europe food plain history,111,mix
+53,Germany,history europe food culture mountain,112,cold
+54,Djibouti,history africa plain beach desert,124,hot
+55,Denmark,europe beach food,112,cold
+56,Dominica,southamerica island food,143,hot
+57,Dominican Republic,northamerica island beach culture,112,mix
+58,Algeria,africa desert food culture beach,113,mix
+59,Ecuador,southamerica culture mountain beach,108,hot
+60,Estonia,europe beach culture,112,cold
+61,Egypt,africa food culture beach desert history,113,hot
+62,Western Sahara,africa desert,104,hot
+63,Eritrea,africa plain desert,129,hot
+64,Spain,europe plain food culture history,112,hot
+65,United Kingdom,europe history skyscrapper,111,cold
+66,France,europe food culture history,112,mix
+67,Ethiopia,africa desert wildlife culture,112,hot
+68,Falkland Islands,island beach southamerica,85,hot
+69,Kyrgyzstan,asia mountain plain,104,mix
+70,Micronesia,asia island beach,143,hot
+71,Iraq,asia culture desert,114,hot
+72,Iran,asia culture desert mountain food history,124,hot
+73,Pakistan,asia history beach mountain food culture desert,113,mix
+74,Iceland,europe mountain beach,117,cold
+75,India,asia beach mountain island skyscrapper history food culture desert wildlife,112,mix
+76,Japan,asia mountain beach island food culture history skyscrapper,112,mix
+77,Italy,europe food culture mountain plain beach,114,mix
+78,South Korea,asia skyscrapper mountain plain culture food,113,mix
+79,Kuwait,beach skyscrapper desert asia,110,hot
+80,Kazakhstan,asia mountain history food,117,cold
+81,Maldives,asia beach island mountain,77,hot
+82,Mexico,northamerica culture food,112,hot
+83,New Zealand,asia island mountain beach,115,cold
+84,New Caledonia,asia island beach culture,123,hot
+85,Oman,asia beach desert plain food culture,120,hot
+86,Qatar,asia desert skyscrapper beach,114,hot
+87,United States,northamerica skyscrapper beach mountain desert food culture,112,mix
+88,Russia,europe asia mountain plain skyscrapper food history,113,cold
+89,Saudi Arabia,asia skyscrapper desert beach mountain history culture,110,hot
+90,Singapore,asia skyscrapper beach food culture,125,mix
+91,Thailand,asia beach food culture,113,hot
+92,Tajikistan,asia mountain plain culture,120,cold
+93,Turkmenistan,asia plain mountain,115,mix
+94,Turkey,europe asia mountain plain beach skyscrapper history food,111,cold
+95,Uzbekistan,asia mountain desert culture history,115,mix
+96,Yemen,asia desert beach food culture,116,hot
+97,South Africa,africa skyscrapper plain desert wildlife,112,hot
+98,Faroe Islands,europe island food history culture,104,cold
+99,Finland,europe food history culture beach,111,cold
+100,Fiji,northamerica food history culture mountain,108,mix
+101,Gabon,africa food history culture,102,mix
+102,Grenada,africa food history,138,mix
+103,Georgia,europe food history,104,cold
+104,Sri Lanka,asia food history culture beach mountain island wildlife,110,mix
+105,Guernsey,africa food history culture beach,116,mix
+106,Ghana,africa food history,113,hot
+107,Gibraltar,europe food history culture,135,mix
+108,Greenland,europe  food history culture,98,cold
+109,Gambia,africa food history culture beach,110,mix
+110,Greece,europe food history island,114,mix
+111,Guatemala,africa food history culture,113,hot
+112,Guam,africa food history culture beach,127,mix
+113,Guinea-Bissau,asia food history culture,109,cold
+114,Guyana,northamerica food history,104,mix
+115,Hong Kong,asia food history culture beach,118,cold
+116,Honduras,africa food history,112,hot
+117,Haiti,northamerica food history culture mountain forest,112,mix
+118,Hungary,europe food history culture beach,114,mix
+119,Indonesia,asia food history culture beach mountain island,113,mix
+120,Ireland,europe food history culture,116,cold
+121,Isle of Man,asia island food history,120,hot
+122,Jersey,europe food history culture beach,119,mix
+123,Jamaica,africa food history culture,114,hot
+124,Jordan,asia food history culture beach,111,hot
+125,Kenya,africa food history,112,hot
+126,Cambodia,asia culture food history beach mountain,111,mix
+127,Kiribati,europe food history culture beach,133,cold
+128,Comoros,africa food history,93,hot
+129,Saint Kitts and Nevis,island asia food history culture beach mountain,85,hot
+130,Laos,asia food history culture beach,117,mix
+131,Lebanon,asia food history,109,mix
+132,Saint Lucia,europe island food history culture,75,cold
+133,Liechtenstein,europe food history culture,125,cold
+134,Liberia,africa food history culture beach,117,mix
+135,Lesotho,africa food history culture,112,mix
+136,Lithuania,europe food history,109,mix
+137,Luxembourg,europe  food history,89,mix
+138,Latvia,europe food history culture,110,mix
+139,Libya,africa beach food history,109,hot
+140,Morocco,africa food history culture beach,115,hot
+141,Monaco,europe food history culture beach,123,mix
+142,Moldova,europe food history culture,113,cold
+143,Montenegro,europe food history culture beach,119,cold
+144,Saint Martin,europe food history,91,mix
+145,Madagascar,africa food history,108,mix
+146,Marshall Islands,northamerica island food history culture mountain,115,mix
+147,North Macedonia,europe food history culture,113,mix
+148,Mali,africa food history culture,112,mix
+149,Myanmar,asia food history culture beach mountain,110,mix
+150,Mongolia,asia food history culture beach mountain,108,cold
+151,Macao,asia food history culture,137,cold
+152,Northern Mariana Islands,asia island food history culture beach mountain,128,mix
+153,Martinique,africa island food history culture,121,hot
+154,Mauritania,africa island food history culture beach,118,mix
+155,Malta,europe food history,113,mix
+156,Mauritius,africa island food history culture,102,mix
+157,Malawi,africa food history culture,115,mix
+158,Mozambique,africa food history,111,mix
+159,Namibia,africa food history culture beach,116,hot
+160,Niger,africa food history,116,hot
+161,Norfolk Island,europe island food history culture beach,124,cold
+162,Nigeria,africa food history culture beach,110,mix
+163,Nicaragua,northamerica food history culture mountain,114,hot
+164,Netherlands,europe food history culture,113,cold
+165,Norway,europe food history culture,117,cold
+166,Nepal,asia food history culture beach,110,cold
+167,Nauru,asia island food history culture,132,mix
+168,Niue,asia island food history culture beach,131,mix
+169,Panama,northamerica food history culture,110,hot
+170,French Polynesia,asia island food history culture beach,121,cold
+171,Papua New Guinea,asia food history,124,hot
+172,Philippines,asia food history culture beach mountain,110,hot
+173,Poland,europe food history,110,mix
+174,Pitcairn,asia island food history,112,hot
+175,Puerto Rico,northamerica island beach food history,119,hot
+176,Palestinian Territory,asia food history culture,110,hot
+177,Portugal,europe food history culture,112,cold
+178,Palau,asia island food history culture beach,130,hot
+179,Romania,europe food history,113,mix
+180,Serbia,europe food history culture beach,115,cold
+181,Rwanda,africa food history,112,mix
+182,Solomon Islands,asia island food history,127,mix
+183,Seychelles,africa island food history culture,114,mix
+184,Sudan,africa food history culture beach,115,hot
+185,Sweden,europe food history,111,cold
+186,Saint Helena,africa island food history culture beach,91,hot
+187,Slovenia,europe food history culture,103,mix
+188,Svalbard and Jan Mayen,europe island food history,141,mix
+189,Slovakia,europe island food history,111,mix
+190,Sierra Leone,africa beach food history culture,110,mix
+191,San Marino,africa food history culture,93,mix
+192,Senegal,africa wildlife food history,113,hot
+193,Somalia,africa food history culture,113,hot
+194,South Sudan,africa desert food history culture,114,hot
+195,Sao Tome and Principe,africa island food history culture,82,hot
+196,El Salvador,northamerica food history,107,mix
+197,Sint Maarten,asia island food history,101,hot
+198,Syria,asia food history culture beach,112,mix
+199,Eswatini,africa food history culture beach,121,mix
+200,Turks and Caicos Islands,northamerica island food history culture mountain forest,83,mix
+201,Chad,africa food history,108,hot
+202,French Southern Territories,africa island food history culture beach,132,hot
+203,Togo,africa food history,110,mix
+204,Timor Leste,asia food history culture beach,122,mix
+205,Tunisia,africa food history culture,113,mix
+206,Tonga,africa food history,91,mix
+207,Tuvalu,asia island food history,135,hot
+208,Taiwan,asia food history culture beach mountain,110,hot
+209,Tanzania,africa food history culture,111,hot
+210,Ukraine,europe food history,111,mix
+211,Uganda,africa food history culture,109,hot
+212,British Virgin Islands,northamerica island food history culture,138,mix
+213,U.S. Virgin Islands,northamerica island food history culture mountain forest,104,hot
+214,Vietnam,asia food history,111,hot
+215,Vanuatu,asia island food history culture beach,89,mix
+216,Wallis and Futuna,asia island food history culture beach mountain,99,cold
+217,Samoa,asia island food history culture beach,96,cold
+218,Kosovo,europe food history culture,121,mix
+219,Mayotte,africa island food history,102,hot
+220,Zimbabwe,africa wildlife food history,110,mix
+221,Zambia,africa food history culture,112,mix
