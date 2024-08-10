@@ -6,7 +6,7 @@ import torch
 import torch.nn as nn
 import pickle
 
-global_path = 'E:/Projects/Flutter Projects/travel_recommender/lib/python_backend/recommender/'
+global_path = 'recommender/'
 
 class RecommenderModel(tez.Model):
     def __init__(self, num_users, num_country, lr=1e-3):
