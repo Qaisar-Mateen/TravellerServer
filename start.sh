@@ -18,7 +18,7 @@ if [ ! -f $VIRTUALENV/bin/pip ]; then
 fi
 
 # Install the requirements
-$VIRTUALENV/bin/pip install -r requirements.txt
+$VIRTUALENV/bin/pip install -r requirement.txt
 
 # Run a glorious Python 3 server
 $VIRTUALENV/bin/python3 serverAPI.py
