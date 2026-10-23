@@ -13,6 +13,8 @@ This repository is the original recommendation backend. The later Roamly applica
 
 The model and encoders are loaded from `recommender/model/` and `recommender/*.pkl`. Run commands from the repository root because the original code uses relative data paths.
 
+![Recommender Engine](Recommender/Recommender%20Engine.png)
+
 ## Included data
 
 | File | Scope |
